@@ -1,3 +1,5 @@
+// Main entry point to the react website
+
 import Card from "./components/Card";
 import NavBar from "./components/NavBar";
 
